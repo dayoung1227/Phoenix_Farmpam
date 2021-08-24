@@ -9,8 +9,8 @@
 </head>
 <body>
 <h1>
-	공지사항 
+    공지사항 
 </h1>
-<h2>${notice }</h2>
+
 </body>
 </html>
